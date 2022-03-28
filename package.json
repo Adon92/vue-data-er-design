@@ -10,9 +10,6 @@
     "build-vue": "vue-cli-service build --target lib --name data-design src/components/DataDesign.vue",
     "lint": "vue-cli-service lint"
   },
-  "publishConfig": {
-    "registry": "http://repository.hbdtzn.com/repository/npm.datapaddy.com"
-  },
   "dependencies": {
   },
   "devDependencies": {
