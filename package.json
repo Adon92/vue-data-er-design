@@ -10,8 +10,6 @@
     "build-vue": "vue-cli-service build --target lib --name data-design src/components/DataDesign.vue",
     "lint": "vue-cli-service lint"
   },
-  "dependencies": {
-  },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
