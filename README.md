@@ -1,4 +1,4 @@
-## 基于zRender的前端数据库表ER图 VUE 插件
+## 前端数据库表ER图 VUE 插件
 
 ### Use the Component
 
